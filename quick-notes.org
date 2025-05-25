@@ -1,3 +1,55 @@
 * Quick Notes
 <2025-05-24 Sat> This is a test quick note.
- 
+<2037-05-25 Mon 2121>
+* Spacemacs Commands Reference
+
+** Magit (Git)
+- `SPC g s` → Open Magit status buffer
+- `s` → Stage current file or hunk
+- `u` → Unstage
+- `c c` → Commit
+- `C-c C-c` → Confirm commit message and commit
+- `P P` → Push to remote
+
+** Org Mode
+- `C-c .` → Insert an active timestamp (shows in agenda)
+- `C-c !` → Insert an inactive timestamp (for logging)
+- `C-c C-l` → Insert a link with display text
+- `C-c '` → Edit source block
+- `TAB` → Cycle visibility of headings or code blocks
+- `C-c C-c` → Confirm action (e.g., re-evaluate code block)
+
+** Code Blocks in Org
+To insert a code block:
+#+BEGIN_SRC language
+Your code here
+#+END_SRC
+Example:
+#+BEGIN_SRC javascript
+console.log("Hello, world!");
+#+END_SRC
+
+** Terminal
+- `SPC '` → Open terminal (default keybinding for `vterm`)
+- `SPC p t` → Open terminal in project root
+- To distinguish terminal visually: set a custom theme or override face:
+  Add this to `.spacemacs`:
+  ```elisp
+  (custom-set-faces
+   '(vterm ((t (:background "#1c1c1c"))))) ;; adjust to desired color
+
+** Navigation
+    SPC b b → Switch between buffers
+    SPC w w → Switch between windows
+    SPC TAB → Switch to last buffer
+    C-x o → Move to other window
+
+** Configuration
+    SPC f e d → Open .spacemacs file
+    SPC f e R → Reload .spacemacs config
+    SPC q r → Restart Emacs
+
+** Help
+    SPC h d k → Describe keybinding
+    SPC h d f → Describe function
+    SPC h d v → Describe variable

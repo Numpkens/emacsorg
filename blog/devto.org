@@ -1,0 +1,68 @@
+* TODO First Week Back at It SCHEDULED: <2025-05-31 Sat>
+:PROPERTIES:
+:EXPORT_FILE_NAME: First Week Back at It.md
+:END:
+
+#+TITLE: First Week Back at It
+#+DATE: <2025-05-24 Sat>
+#+OPTIONS:               toc:nil num:nil
+
+* Introduction
+     This week has really only been about getting back in the groove of things.  Like many people I have a tendency to start to many things and not really
+go deep enough into the thngs that really matter.
+
+
+* What I Did
+** Setting up and getting used to using emacs "Spacemacs"
+   I have really been enjoying using it as my main program for not only writing code, but also project management as well as using it to write this right
+as an Org document.
+** Building Projects
+   The goal here is to spend the majority of my time coding working on projects. I plan on working on one or two through tutorial examples, but then
+to work on prjects that are not supported by tutorials.
+
+*** Passenger Counter
+Link to the lessons where the project is discussed:
+https://www.youtube.com/watch?v=jS4aFq5-91M&t=8029s
+Link to my GitHub Repo for the project:
+https://github.com/Numpkens/passengerapp
+
+Explanation:
+
+
+*** Blackjack Game
+Link to the lessons where the prject is discussed:
+https://www.youtube.com/watch?v=jS4aFq5-91M&t=8029s
+Link to my GitHub Repo for the project:
+https://github.com/Numpkens/blackjackapp
+
+Explanation:
+
+
+*** Fortune Teller
+Link to where the project instructions are given:
+https://www.freecodecamp.org/learn/full-stack-developer/lab-fortune-teller/build-a-fortune-teller
+Link to my GitHub Repo for the project:
+https://github.com/Numpkens/fortunetellerfcc.git
+
+Explanation:
+
+
+* Things I Learned
+** Emacs configuration
+** JavaScript
+*** Lessons Studied
+**** Creating Varibles
+**** Mathmatical Operations
+**** Reassigning and Incrementing
+**** Adding Buttons
+**** Creating Functions
+**** Incrementing on clicks
+**** if/else Statements
+**** Strings
+**** Strings vs Numbers
+**** Boolean Condtions
+**** Linking HTML/CSS and JS together
+* Tools Used
+
+* Next Up
+ 

@@ -1,0 +1,128 @@
+* Backend Engineering Study Guide & Timeline
+:learning:project:
+:PROPERTIES::LOGGING: DONE(!) CANCELLED(@)
+:END:
+
+** Phase 1: Core Backend with JavaScript (Weeks 1-8)
+*** TODO Review JavaScript Foundations                           :learning:
+DEADLINE: <2025-06-04 Wed>
+- [ ] Variables, functions, arrays, objects
+- [ ] ES6+ syntax
+- [ ] Promises, async/await
+- [ ] Node.js basics (modules, npm)
+- [X] Emacs/Spacemacs JS setup
+  * JavaScript + HTML/CSS Practice P
+rojects
+
+** TODO Dice Roller Game
+DEADLINE: <2025-06-06 Fri>
+SIMPLE: Build a web page with two dice images and a "Roll" button.
+- Use HTML to lay out the dice and the button.
+- Use CSS to style the layout and add hover/focus effects.
+- Use JS to generate two random numbers and update the dice images accordingly.
+
+** TODO Rock, Paper, Scissors
+DEADLINE: <2025-06-08 Sun>
+SIMPLE: Create a game with three buttons for Rock, Paper, and Scissors.
+- HTML: Buttons and a display area for results.
+- CSS: Style buttons and feedback (e.g., winner highlighted).
+- JS: Logic to randomly choose computer move and determine the winner.
+
+** TODO Tip Calculator
+DEADLINE: <2025-06-10 Tue>
+MEDIUM: Input a bill amount and select a tip percentage.
+- HTML: Input field, tip selection (dropdown or radio buttons), and result display.
+- CSS: Make the layout clean and responsive.
+- JS: Calculate and display tip and total bill.
+
+** TODO Number Guessing Game
+DEADLINE: <2025-06-12 Thu>
+MEDIUM: Guess a number between 1–100 with feedback.
+- HTML: Input box, "Guess" button, and message display area.
+- CSS: Style input, button, and feedback messages.
+- JS: Generate a random number, compare input, and give hints.
+
+** TODO Quiz App
+DEADLINE: <2025-06-14 Sat>
+MEDIUM-HARD: A 5-question multiple-choice quiz.
+- HTML: A question section and multiple answer buttons.
+- CSS: Visually distinguish correct/incorrect answers.
+- JS: Load questions from an array, track score, and display result at end.
+
+- Resources:
+  - https://javascript.info
+  - freeCodeCamp JS Course
+
+*** TODO Build REST API with Express               :project:
+DEADLINE: <2025-06-18 Wed>
+- [ ] HTTP basics
+- [ ] Express routing and middleware
+- [ ] Error handling
+- [ ] .env setup
+- [ ] Project: Task Manager API
+
+*** TODO PostgreSQL Integration                    :project:
+DEADLINE: <2025-07-02 Wed>
+- [ ] SQL CRUD using `pg`
+- [ ] Schema design
+- [ ] Project: Blog API
+
+*** TODO Auth & Testing                            :project:
+DEADLINE: <2025-07-16 Wed>
+- [ ] JWT authentication
+- [ ] bcrypt, helmet, cors
+- [ ] Testing with Jest + supertest
+- [ ] Final Project: Full-featured API
+
+** Phase 2: Applied Projects & CS Fundamentals (Weeks 9-18)
+*** TODO Intermediate Backend + Docker             :project:
+DEADLINE: <2025-08-13 Wed>
+- [ ] Async patterns and event loop
+- [ ] File system & streams
+- [ ] Redis basics
+- [ ] Dockerize backend API
+- [ ] Project: Caching API with Redis
+
+*** TODO System Design Basics                      :learning:
+DEADLINE: <2025-08-27 Wed>
+- [ ] Load balancing
+- [ ] Scaling
+- [ ] Monolith vs microservices
+- [ ] CAP theorem
+
+*** TODO CS Fundamentals + LeetCode Practice        :learning:
+DEADLINE: <2025-09-24 Wed>
+- [ ] Arrays, Linked Lists, Trees, Hashmaps
+- [ ] Sorting, Searching, Recursion
+- [ ] Big O notation
+- Resources:
+  - Grokking Algorithms
+  - visualgo.net
+  - LeetCode (practice 3x/week)
+
+** Phase 3: Transition to Go/Rust (Weeks 19-24)
+*** TODO Learn Go or Rust                          :learning:
+DEADLINE: <2025-10-08 Wed>
+- [ ] Pick language (Go or Rust)
+- [ ] Syntax, types, error handling
+- Resources:
+  - Tour of Go
+  - Rust Book
+
+*** TODO Rebuild Project in Go or Rust             :project:
+DEADLINE: <2025-10-22 Wed>
+- [ ] Task Manager API
+- [ ] DB drivers
+- [ ] Routing
+
+*** TODO Capstone Project in Go or Rust             :project:
+DEADLINE: <2025-11-05 Wed>
+- [ ] Authenticated API
+- [ ] DB integration
+- [ ] Docker + testing
+
+** Ongoing Habits
+- [ ] Maintain GitHub portfolio           :project:
+- [ ] Weekly blog posts on Dev.to          :project:
+- [ ] Practice algorithms 3x/week           :learning:
+- [ ] Track progress in Org mode            :meta:

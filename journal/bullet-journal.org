@@ -1,0 +1,14 @@
+<2025-05-21 Wed>
+Finally getting my Emacs set up today trying to see if this is a good thing that i can use consistently.  Today I have started
+with my backend agenda as well as wroking on finishing the frontend framework.  I have chosen javascript for the backend but i
+am still not 100% on whether or not i really want to only study JS. But let me give iot some time.
+<2025-05-24 Sat>
+I think I am finally getting the hang of using this emacs however i know there is a lot more to learn. the one thing that is annoying
+me the most is that I cant really use it on multiple computers so when at work at the school I fall short of using it to its true potential.
+ Did a lot of wir toay in JavaScript tomorrow i really need to get this configuragtion on the cloud somehow so that i can have it on my laptop.  I really think this emacs is an awesome
+ program. hopefully i will get better and more effiecnt with it.
+<2025-05-25 Sun>
+Really looking at how to organize everything. I am trying to go ahead and start doing things that I should and will be doing in a couple of months to ahead and get myself ready.
+However, I need to be careful not to get overwhelmed and go to hard and burn myself out before I have a chance to get started.  For example, I need to be more cognazent of of when and where i am
+spending my time.  I just spent almost in a doom scroll on youtube.
+
